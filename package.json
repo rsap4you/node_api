@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "test": "mocha 'test/**/*.spec.js'"
+    "test": "mocha 'test/**/*.spec.js'",
+    "dev":"nodemon index.js"
   },
   "author": "chintan soni",
   "license": "ISC",
